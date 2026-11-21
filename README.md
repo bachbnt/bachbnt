@@ -52,9 +52,9 @@ Most of my work for clients and employers is private, so this list is only the p
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachbnt&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8b949e" alt="Top languages" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachbnt/bachbnt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bachbnt/bachbnt/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bachbnt/bachbnt/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachbnt/bachbnt/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bachbnt/bachbnt/refs/heads/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bachbnt/bachbnt/refs/heads/output/github-snake.svg" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
