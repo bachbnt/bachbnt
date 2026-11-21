@@ -49,7 +49,7 @@ Most of my work for clients and employers is private, so this list is only the p
 
 <div align="center">
 
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachbnt&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8b949e&card_width=500&langs_count=8" alt="Top languages" />
+<img width="880" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachbnt&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8b949e&card_width=880&langs_count=10" alt="Top languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachbnt/bachbnt/refs/heads/output/github-snake-dark.svg" />
