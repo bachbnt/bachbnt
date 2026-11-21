@@ -1,8 +1,8 @@
 # Hi, I'm Bach 👋
 
-**Team Lead and software engineer** in Ho Chi Minh City. Seven years of building mobile and web apps, now leading a team of 10 developers at FPT Software, and growing toward Engineering Manager. I hold a Master of Science in Physics and Informatics.
+**Team Lead and Software Engineer** in Ho Chi Minh City, Vietnam. Seven years of building mobile and web apps, now leading a team of 10 developers at FPT Software, and growing toward Engineering Manager. I hold a Master of Science in Physics and Informatics.
 
-🌐 **[bachbntdev.web.app](https://bachbntdev.web.app)**: my portfolio and CV, in five skins and two languages
+🌐 **[bachbntdev.web.app](https://bachbntdev.web.app)**: My portfolio and CV, in five skins and two languages
 💼 [LinkedIn](https://www.linkedin.com/in/bachbnt/)
 
 ## What I work with
