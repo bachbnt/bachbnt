@@ -34,7 +34,7 @@
 <a href="https://github.com/bachbnt/dev-cmd"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bachbnt&repo=dev-cmd&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=30363d" alt="dev-cmd" /></a>
 <a href="https://github.com/bachbnt/finhub-mcp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bachbnt&repo=finhub-mcp&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=30363d" alt="finhub-mcp" /></a>
 <a href="https://github.com/bachbnt/bokedex"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bachbnt&repo=bokedex&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=30363d" alt="bokedex" /></a>
-<a href="https://github.com/bachbnt/physdex"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bachbnt&repo=physdex&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=30363d" alt="physdex" /></a>
+<a href="https://github.com/bachbnt/physboard"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bachbnt&repo=physboard&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=30363d" alt="physboard" /></a>
 
 | Project | What it is |
 | --- | --- |
@@ -43,7 +43,7 @@
 | [**dev-cmd**](https://github.com/bachbnt/dev-cmd) | A command-line tool that scaffolds and runs JavaScript, mobile and Python projects, with an MCP server |
 | [**finhub-mcp**](https://github.com/bachbnt/finhub-mcp) | An MCP server that gives AI agents market data: Vietnamese stocks, crypto, gold and forex |
 | [**bokedex**](https://github.com/bachbnt/bokedex) | A fast, animated Pokédex with a type chart, a team builder and quizzes ([live](https://bokedex.web.app)) |
-| [**physdex**](https://github.com/bachbnt/physdex) | Interactive physics simulations for high-school students on a chalkboard, in Vietnamese and English: Angular, a tested RK4 physics core ([live](https://physdex.web.app)) |
+| [**physboard**](https://github.com/bachbnt/physboard) | Interactive physics simulations for high-school students on a chalkboard, in Vietnamese and English: Angular, a tested RK4 physics core ([live](https://physboard.web.app)) |
 
 Most of my work for clients and employers is private, so this list is only the part I can show.
 
